@@ -1,1 +1,1 @@
-readme for  simple shell
+Temkin and Mahlet group project
